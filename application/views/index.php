@@ -46,7 +46,7 @@
                     else{
                 ?>
                         <tr>
-                            <td colspan="3">No Data Found</td>
+                            <td colspan="4">No Data Found</td>
                         </tr>
                 <?php
                     }
